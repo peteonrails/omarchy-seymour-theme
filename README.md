@@ -3,6 +3,7 @@
 An [Omarchy](https://omarchy.org) theme inspired by *Little Shop of Horrors* — Audrey II green on deep ink, with cream, blood-red, and lavender accents.
 
 ![Preview](preview.jpg)
+![Preview](preview-2.jpg)
 
 ## Install
 
