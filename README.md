@@ -36,9 +36,10 @@ omarchy-theme-set seymour
 - `neovim.lua` — [everforest](https://github.com/neanias/everforest-nvim) (hard background)
 - `vscode.json` — Everforest Dark
 - `icons.theme` — Yaru-olive
-- `backgrounds/` — Audrey II illustrations plus assorted plant/jungle wallpapers
+- `backgrounds/` — `Audrey-II.jpg` and `Forest-Dilemma.jpg`
 
 ## Credits
 
 - Inspired by the 1986 film *Little Shop of Horrors* (and the 1982 Howard Ashman / Alan Menken stage musical).
-- Background images sourced from [wallhaven.cc](https://wallhaven.cc) and AI-generated Audrey II portraits.
+- `Audrey-II.jpg` by [@peteonrails](https://github.com/peteonrails).
+- `Forest-Dilemma.jpg` from [wallhaven.cc/w/l3mom2](https://wallhaven.cc/w/l3mom2).
