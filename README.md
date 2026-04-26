@@ -43,4 +43,4 @@ omarchy-theme-set seymour
 
 - Inspired by the 1986 film *Little Shop of Horrors* (and the 1982 Howard Ashman / Alan Menken stage musical).
 - `Audrey-II.jpg` by [@peteonrails](https://github.com/peteonrails).
-- `Forest-Dilemma.jpg` from [wallhaven.cc/w/l3mom2](https://wallhaven.cc/w/l3mom2).
+- `Forest-Dilemma.jpg` by [ohmytrey](https://wallhaven.cc/user/ohmytrey) on wallhaven ([source](https://wallhaven.cc/w/l3mom2)).
